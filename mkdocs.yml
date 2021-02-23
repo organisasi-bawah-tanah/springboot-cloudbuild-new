@@ -1,0 +1,8 @@
+site_name: "springboot-cloudbuild-new"
+site_description: "springboot-cloudbuild-new"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

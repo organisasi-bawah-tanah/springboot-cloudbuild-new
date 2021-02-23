@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: springboot-cloudbuild-new
+  description: "springboot-cloudbuild-new"
+  annotations:
+    github.com/project-slug: organisasi-bawah-tanah/springboot-cloudbuild-new
+    backstage.io/techdocs-ref: url:https://github.com/organisasi-bawah-tanah/springboot-cloudbuild-new
+    google.com/cloudbuild-project-slug: intern-infra
+spec:
+  type: service
+  lifecycle: experimental
+  owner: xb4dc0d3
